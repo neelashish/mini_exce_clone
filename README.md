@@ -22,7 +22,8 @@ Interact with a grid using the terminal: update cells, add/remove rows and colum
 
 ## 🖥️ Demo
 
-🎥 [Click here to watch the terminal demo on Google Drive](https://drive.google.com/file/d/1tKMqGe-ve61b033m_xeNnab0rId_iOjc/view?usp=sharing)
+![Mini Excel Demo](./ScreenRecording2025-07-31230327-ezgif.com-video-to-gif-converter.gif)
+
 
 
 ---
