@@ -20,9 +20,10 @@ Interact with a grid using the terminal: update cells, add/remove rows and colum
 
 👇 Here's how it works:
 
-![Mini Excel Demo](./assets/demo.gif) <!-- Update with correct path or hosted link -->
+## 🖥️ Demo
 
-Or watch it on [YouTube](#) / [Loom](#) if you uploaded it there.
+🎥 [Click here to watch the terminal demo on Google Drive](https://drive.google.com/file/d/1tKMqGe-ve61b033m_xeNnab0rId_iOjc/view?usp=sharing)
+
 
 ---
 
